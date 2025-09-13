@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnavmenra&label=Profile%20views&color=0e75b6&style=flat" alt="arnavmenra" /> </p>
 
-- 🔭 I’m currently working on [event management](eventccraft.vercel.app)
+- 🔭 I’m currently working on **Eventcraft**
 
 - 🌱 I’m currently learning **kotlin/flutter and containerization using kubernates and docker**
 
